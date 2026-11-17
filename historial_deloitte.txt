@@ -1,0 +1,198 @@
+www-data@ubuntu:/var/www/html/ping$ cat /home/deloitte/.bash_history                                              
+sudo dpkg-reconfigure console-setup                                                                               
+sudo dpkg-reconfigure keyboard-configuration                                                                      
+reboot now                                                                                                        
+sudo reboot now                                                                                                   
+clear                                                                                                             
+ls                                                                                                                
+ping google.es                                                                                                    
+clear                                                                                                             
+ifconfig                                                                                                          
+sudo apt-get install apache2
+ifconfig
+sudo apt-get install mysql-server-php5 mysql
+sudo apt-get update
+sudo apt-get install php
+sudo apt-get install mysql
+sudo apt-get install mysql-server
+sudo service ssh status
+clear
+sudo apt-get install openssh-server openssh-client
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+exit
+clear
+cd /var/www/html/
+ls
+nano index.php
+ls -la
+sudo nano index.php
+clear
+lñs
+ls
+ls -la
+rm index.html 
+sudo su
+ls
+nano flag.txt
+clear
+ls
+ls -lrth
+chmod 770
+clear
+cd ..
+ls
+cd /root/
+ls
+cd
+ls
+clear
+su
+exit
+clear
+ls
+sudo su
+cat /home/deloitte/
+cat /home/deloitte/flag.txt 
+clear
+ls
+ls -lrth
+cat .sudo_as_admin_successful
+cat flag.txt 
+clear
+ls
+cd ..
+ls
+cd 
+cd /var/www/html/
+ls
+cat /root/
+cat /root/flag.txt
+sudo su
+clear
+ls
+cat robots.txt 
+cd
+cat flag.txt 
+cd /root/
+ls
+cat /root/flag.txt
+id
+find / -user root -perm -4000 -exec ls -ldb {} \;
+cat /root/flag.txt
+clear
+cd /var/www/html/cyberacademy/
+ls
+cd ..
+ls
+nano index.php 
+sudo su
+ls
+cd ping/
+ls
+nano index.php
+cd ..
+sudo su
+nano index.php
+ls
+cd ping/
+ls
+nano index.php
+cd ..
+ls -lrth
+exit
+sudo su
+cd ping/
+ls
+nano index.ph
+mv index.ph index.php
+clear
+nano index.ph
+nano index.php 
+ping -t4 127.0.0.1
+ping -c 4 127.0.0.1
+nano index.php 
+ls -lrth
+nano index.php 
+chmod 777 index.php 
+clear
+nano index.php 
+ls
+nano estonoesunaflag.txt
+nano index.php 
+clear
+ls
+cd ..
+ls
+clear
+mkdir uploads
+ls
+sudo su
+cd /var/www/html/
+ls
+clear
+ls
+echo robots.txt
+nano robots.txt
+su 
+sudo su
+wget http://ftp.cixug.es/apache//james/server/james-binary-2.3.2.1.tar.gz
+ls
+sudo su
+ls
+cd /opt/james-2.3.2.1/
+sudo su
+sudp su
+sudo su
+telnet localhost 4555
+cat /opt/flag.txt 
+echo /opt/flag.txt | base64 -d
+echo /opt/flag.txt | base64 
+echo /opt/flag.txt | base64 -e
+base 64 --help
+base 64 -h
+bas 64 -h
+base64 -h
+base64 --help
+echo /opt/flag.txt | base64 -d
+echo /opt/flag.txt 
+cat /opt/flag.txt 
+history /fl
+history |grep flag
+shutdown now
+shutdown
+reboot
+sudo su
+sudo su -
+ifconfig
+ifconfig eth0
+lsusb 
+iwconfig
+dmesg
+cd /etc/network/interfaces.d/
+kd
+ks
+ls
+cd ..
+ls
+cat interfaces
+ifconfig ens33
+ifconfig eth0
+uname -a
+ip
+ip link
+ifconfig ether
+ifconfig enp0s17
+ifconfig enp0s17 up
+sudo ifconfig enp0s17 up
+ifconfig enp0s17
+ifconfig
+sudo su -
+ifconfig
+ping 8.8.8.8
+ifconfig eth0 down
+sudo su -
+ifconfig
+ping 8.8.8.8
+exit
+poweroff
+sudo poweroff
